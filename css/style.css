@@ -1,0 +1,111 @@
+
+/* NAVIGTATION SECTOR */
+#brand-color{
+  color: #E19251;
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 3px;
+  text-align: center;
+
+}
+#navbar{
+padding-left: 2%;
+padding-right: 2%;
+}
+
+#navbar-toggler{
+
+  background-color:#E19251;
+  border-color: white;
+  border-radius: 100%;
+  padding: 0;
+
+}
+
+/* DEPARTMENT SECTOR */
+
+.department-pic{
+  width: 100%;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+.card-zone{
+border-color: #FEDDC5;
+
+  border-style: solid;
+  border-width: 5px;
+
+}
+
+.card-bottom{
+  padding-bottom: 5%;
+}
+
+/* BUTTON SECTOR */
+
+#btn-cg{
+  color:white;
+
+  background-color: #E19251;
+
+}
+#btn-cg:hover{
+  background-color: #49FF00;
+}
+
+
+
+/* BRAND LOGO SECTOR */
+
+
+.brand-logo{
+  padding-left: 5%;
+  width: 20%;
+}
+ #bg-corner{
+padding-left: 10%;
+padding-top: 2%;
+padding-bottom: 2%;
+}
+#corner2{
+  width: 100%;
+}
+
+
+
+
+#store{
+  padding: 5% 1% 0 1%;
+}
+
+.row{
+  padding-bottom: 5%;
+}
+.card-sec{
+  padding-bottom: 2%;
+}
+
+
+/* shopowerner section */
+#shopowner{
+  padding-left: 20%;
+  padding-right: 20%;
+  text-align: center;
+}
+.pic2{
+  width: 200px;
+  border-radius: 100%;
+  border-style: solid;
+  border-color: #FEDDC5;
+  border-width: 10px;
+
+}
+h3{
+  color: #E19251;
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 3px;
+
+}
+.arrow1{
+  width: 100%;
+}
